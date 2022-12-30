@@ -16,6 +16,14 @@ function anotherFunc() {
       color: "blue",
       value: "#00f",
     },
+    {
+      color: "red",
+      value: "#f00",
+    },
+    {
+      color: "green",
+      value: "#0f0",
+    },
   ];
 
   const longText =
